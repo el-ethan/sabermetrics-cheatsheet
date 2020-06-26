@@ -1,7 +1,10 @@
 # Contents
-⚾ [WHIP](#whip---walks-plus-hits-per-inning-pitched)
+⚾ [WHIP](#whip)
+⚾ [BABIP](#babip)
 
-# WHIP - _walks plus hits per inning pitched_
+
+# WHIP
+_Walks plus hits per inning pitched_
 
 ## Formula
 **(BB+H)/IP**
@@ -30,3 +33,11 @@ http://m.mlb.com/glossary/standard-stats/walks-and-hits-per-inning-pitched
 https://library.fangraphs.com/pitching/whip/
 
 https://www.fantasypros.com/2015/05/beginners-guide-to-sabermetrics-whip/
+
+# BABIP
+_Batting average on balls In play_
+
+## Formula
+**BABIP = (H – HR)/(AB – K – HR + SF)**
+
+Hits minus the number of home runs divided by at bats minus strikeouts and home runs with sacrifice flies added back in.
