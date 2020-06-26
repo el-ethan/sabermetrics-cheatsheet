@@ -1,5 +1,6 @@
 # Contents
 ⚾ [WHIP](#whip)
+
 ⚾ [BABIP](#babip)
 
 
@@ -8,6 +9,7 @@ _Walks plus hits per inning pitched_
 
 ## Formula
 **(BB+H)/IP**
+
 (Walks + hits allowed) / innings pitched
 
 ## Notes
@@ -41,3 +43,18 @@ _Batting average on balls In play_
 **BABIP = (H – HR)/(AB – K – HR + SF)**
 
 Hits minus the number of home runs divided by at bats minus strikeouts and home runs with sacrifice flies added back in.
+
+## Notes
+
+* "BABIP allows us to see if a hitter seems to be getting a boost from poor defense or good luck or getting docked for facing good defenses and having bad luck."[<sup>1</sup>](#resources)
+* "pitchers with a high BABIP are most likely victims of poor defense or bad luck, and neither is the pitcher’s fault."
+
+## Context:
+
+* The average BABIP for _pitchers and hitters_ is also about .300
+* The best hitters in the league are capable of BABIPs in the .350 range while the worst hitters might hang around .260
+* You won’t see many pitchers outside of the .290 to .310 BABIP range.
+
+## Resources:
+
+<sup>1<sup>https://library.fangraphs.com/pitching/babip/
