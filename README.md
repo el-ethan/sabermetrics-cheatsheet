@@ -1,3 +1,5 @@
+#Sabermetrics Cheatsheet
+
 # Contents
 ⚾ [WHIP](#whip)
 
