@@ -47,9 +47,7 @@ Hits minus the number of home runs divided by at bats minus strikeouts and home 
 ## Notes
 
 * From FanGraphs:
-  > BABIP allows us to see if a hitter seems to be getting a boost from poor defense or good luck or getting docked for facing good defenses and having bad luck.
-  >...
-  > pitchers with a high BABIP are most likely victims of poor defense or bad luck, and neither is the pitcher’s fault.
+  > BABIP allows us to see if a hitter seems to be getting a boost from poor defense or good luck or getting docked for facing good defenses and having bad luck...Pitchers with a high BABIP are most likely victims of poor defense or bad luck, and neither is the pitcher’s fault.
 
 ## Context:
 
